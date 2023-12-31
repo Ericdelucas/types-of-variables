@@ -1,0 +1,12 @@
+#para saber o tipo de variavel
+
+x=1000.00
+print(type(x))
+
+
+x="eric"
+print(type(x))
+
+#tipo de expresao de verdadeiro ou falso 
+x=True
+print(type(x))
